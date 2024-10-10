@@ -1,7 +1,8 @@
 package linearsearch;
 //----------------------------------------------------------------------------------------------
 // Java code for linearly search x in arr[]. If x
-
+// Name: khlood hamed almasoudi
+// ID: 445002504
 // is present then return its location, otherwise
 
 // return -1
@@ -44,7 +45,7 @@ class LinearSearch {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 7;
 
                         int index = search(arr, n, x);
 
